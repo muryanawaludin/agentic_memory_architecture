@@ -1,7 +1,6 @@
 # Agentic Memory Architecture: Working, Episodic, and Semantic Retrieval Engine
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agentic-memory-engine.streamlit.app)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/muryanawaludin/agentic-memory-architecture)
+[![DEMO APLIKASI](https://github.com/codespaces/badge.svg)](https://agenticmemoryarchitecture.streamlit.app/)
 
 Implementasi arsitektur memori kognitif terpadu untuk agen otonom tingkat enterprise (*Agentic AI*). Proyek ini mengintegrasikan tiga lapisan memori biologis komputasional: **Working Memory** (buffer sesi aktif), **Episodic Memory** (riwayat pengalaman dengan peluruhan eksponensial berbasis 8.469 tiket Kaggle), dan **Semantic Memory** (pencarian dokumen SOP industri via representasi vektor hibrida).
 
